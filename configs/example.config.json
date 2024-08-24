@@ -1,0 +1,14 @@
+{
+    "development": {
+        "CHESS_PIECES_ASSETS_DIRECTORY": "...",
+        "CHESS_FEN_DATASET_FILENAME": "...",
+        "CHESS_PUZZLE_FILENAME": "...",
+        "CHESS_SQUARE_SIZE": ...
+    },
+    "staging": {
+        "CHESS_FEN_DATASET_FILENAME": "..."
+    },
+    "production": {
+        "CHESS_FEN_DATASET_FILENAME": "..."
+    }
+}
